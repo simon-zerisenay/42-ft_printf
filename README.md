@@ -1,4 +1,4 @@
-                                        #💡 About the project
+                                        💡 About the project
 This project is pretty straight forward. You will recode printf. You will mainly learn how to use variadic arguments.
 
 This project consists of coding a library that contains a simplified version (more
@@ -20,7 +20,7 @@ $ make
 To use the library functions in your code, simply include its header:
 
 #include "ft_printf.h"
-#📋 Testing
+📋 Testing
 You can use this third party tester to fully test the project:
 
 Tripouille/printfTester
