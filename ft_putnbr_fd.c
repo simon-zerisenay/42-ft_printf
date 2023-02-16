@@ -30,3 +30,4 @@ void	ft_putnbr_fd(int n, int fd, size_t *ret, size_t *i)
 	if (n < 10)
 		*i = *i + 1;
 }
+
