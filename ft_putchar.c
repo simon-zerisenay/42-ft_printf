@@ -19,4 +19,3 @@ void	ft_putchar(char c, int fd, size_t *ret, size_t *i)
 	*i = *i + 1;
 }
 
-
