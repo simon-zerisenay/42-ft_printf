@@ -5,6 +5,7 @@ This project consists of coding a library that contains a simplified version (mo
 information below) of the printf function.
 For more detailed information, look at the subject of this project.
 
+
 #🛠️ Usage
 Requirements
 The function is written in C language and thus needs the gcc compiler and some standard C libraries to run.
