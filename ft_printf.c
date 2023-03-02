@@ -43,7 +43,7 @@ int	ft_printf(const char *ip, ...)
 void	ft_format(t_list *st, const char *ip)
 {
 	if (ip[st->i] == 'c')
-		ft_putchar(va_arg(st->ap, int), 1, &st->ret, &st->i);
+		ft_putchar(va_arg(st->ap, int), 1, &st->ret, &st->i); 
 	else if (ip[st->i] == 's')
 		ft_putstr_fd(va_arg(st->ap, char *), 1, &st->ret, &st->i);
 	else if (ip[st->i] == 'd' || ip[st->i] == 'i')
