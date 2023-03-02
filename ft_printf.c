@@ -19,7 +19,7 @@ int	ft_printf(const char *ip, ...)
 
 	st = (t_list *)malloc(sizeof(t_list));
 	tmp = 0;
-	st->i = 0;
+	st->i = 0; 
 	st->ret = 0;
 	va_start(st->ap, ip); 
 	while (ip[st->i])
