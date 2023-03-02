@@ -31,7 +31,7 @@ int	ft_printf(const char *ip, ...)
 			else
 				ft_format(st, ip); 
 		}
-		else
+		else 
 			ft_putchar_fd(ip[st->i++], 1, &st->ret);
 	}
 	va_end(st->ap);
