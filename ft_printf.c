@@ -51,7 +51,7 @@ void	ft_format(t_list *st, const char *ip)
 	else if (ip[st->i] == 'u')
 		ft_putunbr_fd(va_arg(st->ap, unsigned int), 1, &st->ret, &st->i);
 	else if (ip[st->i] == 'X' || ip[st->i] == 'x')
-		ft_puthex(va_arg(st->ap, unsigned int), ip[st->i], &st->ret, &st->i);
+		ft_puthex(va_arg(st->ap, unsigned int), ip[st->i], &st->ret, &st->i); 
 	else if (ip[st->i] == 'p')
 		ft_putptr(va_arg(st->ap, long long unsigned), &st->ret, 0, &st->i);
 }
