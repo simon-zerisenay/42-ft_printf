@@ -40,7 +40,7 @@ int	ft_printf(const char *ip, ...)
 	return (tmp);
 } 
  
-void	ft_format(t_list *st, const char *ip)
+void	ft_format(t_list *st, const char *ip) 
 {
 	if (ip[st->i] == 'c')
 		ft_putchar(va_arg(st->ap, int), 1, &st->ret, &st->i); 
