@@ -39,7 +39,7 @@ int	ft_printf(const char *ip, ...)
 	free(st);
 	return (tmp);
 }
-
+ 
 void	ft_format(t_list *st, const char *ip)
 {
 	if (ip[st->i] == 'c')
