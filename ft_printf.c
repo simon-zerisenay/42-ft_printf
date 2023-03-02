@@ -29,7 +29,7 @@ int	ft_printf(const char *ip, ...)
 			if (ip[++st->i] == '%')
 				ft_putchar(ip[st->i], 1, &st->ret, &st->i);
 			else
-				ft_format(st, ip);
+				ft_format(st, ip); 
 		}
 		else
 			ft_putchar_fd(ip[st->i++], 1, &st->ret);
