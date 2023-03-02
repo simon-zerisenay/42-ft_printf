@@ -38,7 +38,7 @@ int	ft_printf(const char *ip, ...)
 	tmp = st->ret;
 	free(st);
 	return (tmp);
-}
+} 
  
 void	ft_format(t_list *st, const char *ip)
 {
