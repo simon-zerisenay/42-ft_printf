@@ -22,7 +22,7 @@ int	ft_printf(const char *ip, ...)
 	st->i = 0; 
 	st->ret = 0;
 	va_start(st->ap, ip); 
-	while (ip[st->i])
+	while (ip[st->i]) 
 	{ 
 		if (ip[st->i] == '%')
 		{
