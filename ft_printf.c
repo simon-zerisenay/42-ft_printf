@@ -17,7 +17,7 @@ int	ft_printf(const char *ip, ...)
 	t_list	*st;
 	int		tmp;
 
-	st = (t_list *)malloc(sizeof(t_list));
+	st = (t_list *)malloc(sizeof(t_list)); 
 	tmp = 0;
 	st->i = 0; 
 	st->ret = 0;
