@@ -63,9 +63,9 @@ Navigate to the project directory:
 Compile the ft_printf library: 
 
 						 make
-Use the ft_printf function to print formatted output to the standard output stream: 
+Use the ft_printf executable to execute the programme standard output stream: 
 
-						ft_printf("Format string", arguments...)
+						./ft_printf
 Refer to the project's documentation and code files for more detailed information and examples of how to use the ft_printf function effectively.
 
 <h2> How it Works </h2>
