@@ -32,12 +32,14 @@ You can specify the width and precision of the output using optional flags in th
 
 Flags and Modifiers
 The ft_printf function supports various flags and modifiers to customize the output. Some of the commonly used flags include:
+<br/>
 <div align="center">
 -: Left-justify the output
 +: Prepend a plus sign to positive numbers
 0: Pad the output with zeros
 #: Add the "0x" or "0X" prefix for hexadecimal values
 </div>
+<br/>
 	These flags and modifiers allow you to modify the appearance of the output to meet your specific requirements.
 
 Variadic Argument Handling
