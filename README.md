@@ -32,12 +32,13 @@ You can specify the width and precision of the output using optional flags in th
 
 Flags and Modifiers
 The ft_printf function supports various flags and modifiers to customize the output. Some of the commonly used flags include:
-
+<div align="center">
 -: Left-justify the output
 +: Prepend a plus sign to positive numbers
 0: Pad the output with zeros
 #: Add the "0x" or "0X" prefix for hexadecimal values
-These flags and modifiers allow you to modify the appearance of the output to meet your specific requirements.
+</div>
+	These flags and modifiers allow you to modify the appearance of the output to meet your specific requirements.
 
 Variadic Argument Handling
 One of the key aspects of ft_printf is its ability to handle variadic arguments. By utilizing the stdarg.h header and the va_list type, you can process a variable number of arguments passed to the function. This flexibility enables you to handle different types of data and dynamically generate the output based on the provided format specifiers.
@@ -53,11 +54,13 @@ Link the ft_printf library during the compilation process: gcc -L. -lftprintf -o
 Use the ft_printf function to print formatted output to the standard output stream: ft_printf("Format string", arguments...)
 Refer to the project's documentation and code files for more detailed information and examples of how to use the ft_printf function effectively.
 
-How it Works
+<h2> How it Works </h2>
+<br/>
 The ft_printf function follows a systematic process to handle the provided format string and corresponding arguments:
 
 Parse the format string and identify format specifiers, flags, width, precision, and modifiers.
 Retrieve the arguments based on the format specifiers and perform necessary data conversions.
 Generate the formatted output according to the specified format and desired appearance.
 Print the final output to the standard output stream.
+<br/>
 By following this process, ft_printf ensures accurate formatting and printing of the provided data, mimicking the behavior
