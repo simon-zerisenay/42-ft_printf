@@ -54,13 +54,18 @@ One of the key aspects of ft_printf is its ability to handle variadic arguments.
 To use ft_printf in your project, follow these steps:
 
 Clone the repository: 
+
                                          git clone https://github.com/your_username/42-ft_printf.git
 Navigate to the project directory: 
+
 						cd 42-ft_printf
+
 Compile the ft_printf library: 
+
 						 make
 Use the ft_printf function to print formatted output to the standard output stream: 
-					ft_printf("Format string", arguments...)
+
+						ft_printf("Format string", arguments...)
 Refer to the project's documentation and code files for more detailed information and examples of how to use the ft_printf function effectively.
 
 <h2> How it Works </h2>
