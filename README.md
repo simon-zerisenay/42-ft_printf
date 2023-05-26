@@ -1,6 +1,5 @@
 <h1> ft_printf - 42 Abu Dhabi </h1>
 <h2> Introduction </h2>
-Welcome to the ft_printf project! This project is part of the curriculum at 42 Abu Dhabi and aims to develop your understanding of variadic functions and string formatting in the C programming language. ft_printf is a custom implementation of the printf function, which allows for formatted output to the standard output stream.
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/simon-zerisenay/42-ft_printf?color=lightblue" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/simon-zerisenay/42-ft_printf?color=critical" />
@@ -8,6 +7,8 @@ Welcome to the ft_printf project! This project is part of the curriculum at 42 A
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/simon-zerisenay/42-ft_printf?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/simon-zerisenay/42-ft_printf?color=green" />
 </p>
+Welcome to the ft_printf project! This project is part of the curriculum at 42 Abu Dhabi and aims to develop your understanding of variadic functions and string formatting in the C programming language. ft_printf is a custom implementation of the printf function, which allows for formatted output to the standard output stream.
+
 Objective
 The main objective of this project is to recreate the printf function, providing similar functionality and behavior. By building your own version of printf, you will deepen your understanding of the inner workings of the function and gain hands-on experience in string manipulation, handling format specifiers, and managing variadic arguments.
 
