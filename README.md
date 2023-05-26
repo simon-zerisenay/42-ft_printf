@@ -15,7 +15,8 @@ The main objective of this project is to recreate the printf function, providing
 <h2> Features </h2>
 <h4> Format Specifiers </h4>
 The ft_printf function supports a wide range of format specifiers, allowing you to format and print various types of data. Some of the commonly used format specifiers include:
-
+<br/>
+<br/>
 <div align="center">
 %c: Character <br/>
 %s: String <br/>
@@ -25,6 +26,8 @@ The ft_printf function supports a wide range of format specifiers, allowing you 
 %f: Floating-point number <br/>
 %p: Pointer address <br/>
 </div>
+<br/>
+<br/>
 These format specifiers enable you to print data in a specific format, making it easier to display and interpret different types of information.
 
 Width and Precision
