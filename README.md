@@ -9,13 +9,14 @@
 </p>
 Welcome to the ft_printf project! This project is part of the curriculum at 42 Abu Dhabi and aims to develop your understanding of variadic functions and string formatting in the C programming language. ft_printf is a custom implementation of the printf function, which allows for formatted output to the standard output stream.
 
-Objective
+<h2> Objective </h2>
 The main objective of this project is to recreate the printf function, providing similar functionality and behavior. By building your own version of printf, you will deepen your understanding of the inner workings of the function and gain hands-on experience in string manipulation, handling format specifiers, and managing variadic arguments.
 
-Features
-Format Specifiers
+<h2> Features </h2>
+<h4> Format Specifiers </h4>
 The ft_printf function supports a wide range of format specifiers, allowing you to format and print various types of data. Some of the commonly used format specifiers include:
 
+<div align="center">
 %c: Character
 %s: String
 %d or %i: Signed decimal integer
@@ -23,6 +24,7 @@ The ft_printf function supports a wide range of format specifiers, allowing you 
 %x or %X: Unsigned hexadecimal integer
 %f: Floating-point number
 %p: Pointer address
+	</div>
 These format specifiers enable you to print data in a specific format, making it easier to display and interpret different types of information.
 
 Width and Precision
