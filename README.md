@@ -17,13 +17,13 @@ The main objective of this project is to recreate the printf function, providing
 The ft_printf function supports a wide range of format specifiers, allowing you to format and print various types of data. Some of the commonly used format specifiers include:
 
 <div align="center">
-%c: Character
-%s: String
-%d or %i: Signed decimal integer
-%u: Unsigned decimal integer
-%x or %X: Unsigned hexadecimal integer
-%f: Floating-point number
-%p: Pointer address
+%c: Character <br/>
+%s: String <br/>
+%d or %i: Signed decimal integer <br/>
+%u: Unsigned decimal integer <br/>
+%x or %X: Unsigned hexadecimal integer <br/>
+%f: Floating-point number <br/>
+%p: Pointer address <br/>
 	</div>
 These format specifiers enable you to print data in a specific format, making it easier to display and interpret different types of information.
 
