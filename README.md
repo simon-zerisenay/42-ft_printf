@@ -7,8 +7,9 @@
 </div>
 <label>
 	<h2> Score: </h2>	
+	<img alt="100" style="width: 100px;height: 50px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/100.png"/>
 </label>
-<img alt="100" style="width: 100px;height: 50px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/100.png"/>
+
 <h2> Introduction </h2>
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/simon-zerisenay/42-ft_printf?color=lightblue" />
