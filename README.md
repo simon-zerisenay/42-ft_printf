@@ -3,7 +3,7 @@
 <h1> ft_printf - 42 Abu Dhabi </h1>
 
 <a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
-<img alt="100" style="width: 50px;height: 50px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/100.png"/>
+<img alt="100" style="width: 100px;height: 50px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/100.png"/>
 </div>
 <h2> Introduction </h2>
 <p align="center">
