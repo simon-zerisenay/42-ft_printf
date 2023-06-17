@@ -66,7 +66,7 @@ To use ft_printf in your project, follow these steps:
 
 Clone the repository: 
 
-                                         git clone https://github.com/your_username/42-ft_printf.git
+                           git clone https://github.com/your_username/42-ft_printf.git
 Navigate to the project directory: 
 
 						cd 42-ft_printf
