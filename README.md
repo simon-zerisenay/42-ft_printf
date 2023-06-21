@@ -5,7 +5,7 @@
 <a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 
 </div> 
-<label>  
+<label>   
 	<h2> Score </h2>	 
 	<img alt="100" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/100.png"/>
 </label> 
