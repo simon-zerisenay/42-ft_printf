@@ -17,7 +17,7 @@
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/simon-zerisenay/42-ft_printf?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/simon-zerisenay/42-ft_printf?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/simon-zerisenay/42-ft_printf?color=green" />
-</p>
+</p> 
 Welcome to the ft_printf project! This project is part of the curriculum at 42 Abu Dhabi and aims to develop your understanding of variadic functions and string formatting in the C programming language. ft_printf is a custom implementation of the printf function, which allows for formatted output to the standard output stream.
  
 <h2> Objective </h2>
